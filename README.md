@@ -8,7 +8,7 @@ How To Play:
 
   Guess a letter by seeing Length of the word you got
   
-  If its not in the given word you will be started HANGING... 
+  If it's not in the given word you will be started HANGING... 
   
   Keep an 👁 on Hangman word count
 
